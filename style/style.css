@@ -1,0 +1,26 @@
+.todo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    margin-top: 100px;
+    
+
+}
+
+.todo-content{
+    text-align: center;
+    padding: 20px 0px;
+    min-width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.todo-content ol{
+    text-align: left;
+    width: 100%;
+    line-height: 30px;
+    padding-right: 15px;
+}
+#todo-para{
+    margin-top: 20px;
+}
